@@ -1,7 +1,24 @@
-# Getting Started with Create React App
+##Gemini CLI Complete Guide: Setup & Configuration
+What is Gemini CLI?
+Gemini CLI is an open-source AI agent that runs directly in your terminal. It helps with coding tasks, file operations, and general queries. The tool comes with built-in features and supports MCP servers.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Installation & Setup
+Requirements
+Node.js version 20 or higher
+Installation Steps
+# Install Gemini CLI globally
+npm install -g @google/gemini-cli
+
+# Check version
+gemini -v
+
+# Upgrade to latest version
+npm upgrade -g @google/gemini-cli
+First Launch
+Start Gemini CLI:
+
+gemini
 ## Available Scripts
 
 In the project directory, you can run:
