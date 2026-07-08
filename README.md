@@ -1,12 +1,19 @@
-##Gemini CLI Complete Guide: Setup & Configuration
-What is Gemini CLI?
+# Gemini CLI Complete Guide: Setup & Configuration
+
+## What is Gemini CLI?
+
 Gemini CLI is an open-source AI agent that runs directly in your terminal. It helps with coding tasks, file operations, and general queries. The tool comes with built-in features and supports MCP servers.
 
 
-Installation & Setup
-Requirements
-Node.js version 20 or higher
-Installation Steps
+## Installation & Setup
+
+### Requirements
+
+- Node.js version 20 or higher
+
+### Installation Steps
+
+```bash
 # Install Gemini CLI globally
 npm install -g @google/gemini-cli
 
@@ -15,10 +22,19 @@ gemini -v
 
 # Upgrade to latest version
 npm upgrade -g @google/gemini-cli
-First Launch
+```
+
+---
+
+## First Launch
+
 Start Gemini CLI:
 
+```bash
 gemini
+```
+For Complete Gemini CLI Setup visit "GEMINI-CLII-GUIDE.md" Folder.
+
 ## Available Scripts
 
 In the project directory, you can run:
