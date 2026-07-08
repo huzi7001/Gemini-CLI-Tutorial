@@ -4,10 +4,6 @@
 
 Gemini CLI is an open-source AI agent that runs directly in your terminal. It helps with coding tasks, file operations, and general queries. The tool comes with built-in features and supports MCP servers.
 
-**Free Tier Benefits:**
-- 60 requests per minute
-- 1,000 requests per day (with personal Google account)
-
 ---
 
 ## Installation & Setup
